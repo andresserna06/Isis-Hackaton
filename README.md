@@ -75,10 +75,12 @@ CloudLabs captura miles de interacciones diarias mediante Microsoft Clarity (vis
 ```
 proyecto/
 │
-├── solución.ipynb                  # Notebook principal con todo el código
-├── 1_Data_Recordings_CLEAN.csv     # Dataset de sesiones por usuario (limpio)
-├── Data_Metrics_clean.csv          # Dataset de métricas agregadas (limpio)
-└── README.md                       # Este archivo
+├── Integración_LLM.ipynb             # Notebook principal con todo el código
+├── Depuracion_Data_Recordings.ipyny  # Notebook usado para la limpieza del dataset Recordings
+├── Depuracion_Data_Metrics.ipyny     # Notebook usado para la limpieza del dataset Metrcis
+├── 1_Data_Recordings_CLEAN.csv       # Dataset de sesiones por usuario (limpio)
+├── Data_Metrics_clean.csv            # Dataset de métricas agregadas (limpio)
+└── README.md                         # Este archivo
 ```
 
 ---
